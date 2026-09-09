@@ -1,4 +1,4 @@
-[200~# UC-11: Hindra andra från att ansluta
+# UC-11: Hindra andra från att ansluta
 
 **Use case ID:** UC-11  
 **Aktör:** System  
